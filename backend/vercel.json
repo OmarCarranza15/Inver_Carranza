@@ -7,6 +7,10 @@
       { "src": "/ServiciosOfrecidos", "dest": "/app.js" },
       { "src": "/proyehasimage", "dest": "/app.js" },
       { "src": "/imagenes", "dest": "/app.js" },
+      {"src": "/calificaciones", "dest": "/app.js" },
+      {"src": "/estados", "dest": "/app.js" },
+      {"src": "/resenias", "dest": "/app.js" },
+      {"src": "/solicitudes", "dest": "/app.js" },
       { "src": "/(.*)", "dest": "/app.js" }
     ]
   }

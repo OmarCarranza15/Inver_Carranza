@@ -2,7 +2,7 @@
   "name": "inversiones_carranza",
   "version": "3.0.0",
   "scripts": {
-    "start": "concurrently \"cd frontend && npm start\" \"cd backend && npm run start\"",
+    "start": "concurrently \"cd frontend && npm start\" ",
     "build": "cd frontend && npm run build"
   },
   "dependencies": {
